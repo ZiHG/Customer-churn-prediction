@@ -1,16 +1,16 @@
 # Customer churn prediction
-## **Key words:**
+### **Key words:**
 
 _Machine Learning/Data Mining (Classification Technique)_
 + _Applied Model: Decision Tree_
 + _Language: Python, RapidMiner_
 
 ***
-**Data Description:**
+### **Data Description:**
 
 This dataset is about consumers and their decisions to terminate a contract (i.e., consumer churn problem).
 
-Data Size: 31891 records
+**Data Size: 31891 records**
 
 Col.  | Var. Name | Var. Description
 -----| ----------| --------------------------------------------------------------
@@ -29,7 +29,7 @@ Col.  | Var. Name | Var. Description
 
 
 
-**Modeling Process:**
+### **Modeling Process:**
 
 1. Data Cleasing
 2. Modeling
