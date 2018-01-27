@@ -1,5 +1,5 @@
 # Customer churn prediction
-**Key words:**
+## **Key words:**
 
 _Machine Learning/Data Mining (Classification Technique)_
 + _Applied Model: Decision Tree_
