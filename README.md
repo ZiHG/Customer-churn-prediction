@@ -27,7 +27,8 @@ Col.  | Var. Name | Var. Description
 
 
 **Modeling Process:**
-1.
-2.
-3.
-4.
+
+1. Data Cleasing
+2. Modeling
+3. Model Evaluation
+4. Model Interpretation
