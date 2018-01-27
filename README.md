@@ -26,6 +26,7 @@ Col.  | Var. Name | Var. Description
 12  |  churndep  | Did the customer churn (1=Yes; 0=No)
 
 
+
 **Modeling Process:**
 
 1. Data Cleasing
