@@ -10,6 +10,8 @@ _Machine Learning/Data Mining (Classification Technique)_
 
 This dataset is about consumers and their decisions to terminate a contract (i.e., consumer churn problem).
 
+Data Size: 31891 records
+
 Col.  | Var. Name | Var. Description
 -----| ----------| --------------------------------------------------------------
 1  |   revenue  |  Mean monthly revenue in dollars
