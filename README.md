@@ -3,7 +3,7 @@
 
 _Machine Learning/Data Mining (Classification Technique)_
 + _Applied Model: Decision Tree_
-+ _Language: Python, RapidMiner_
++ _Tool: Python, RapidMiner_
 
 ***
 ### **Data Description:**
